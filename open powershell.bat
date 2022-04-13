@@ -1,0 +1,1 @@
+runas /user:csb\bjkintner "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe C:\scripts\powershell\master_script.ps1"

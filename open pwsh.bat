@@ -1,0 +1,1 @@
+runas /user:csb.local\bjkintner "C:\Program Files\PowerShell\7\pwsh.exe"
